@@ -10,11 +10,19 @@
     "test": "jest"
   },
   "dependencies": {
+    "@ko-developerhong/react-native-mqtt": "^1.0.2",
     "@notifee/react-native": "^9.1.2",
     "@react-native-firebase/app": "^21.4.0",
     "@react-native-firebase/messaging": "^21.4.0",
+    "date-fns": "^4.1.0",
+    "date-fns-tz": "^3.2.0",
     "react": "18.3.1",
-    "react-native": "0.76.1"
+    "react-native": "0.76.1",
+    "react-native-circular-progress": "^1.4.1",
+    "react-native-gifted-charts": "^1.4.47",
+    "react-native-linear-gradient": "^2.8.3",
+    "react-native-svg": "^15.8.0",
+    "swr": "^2.2.5"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
@@ -38,5 +46,8 @@
   },
   "engines": {
     "node": ">=18"
-  }
+  },
+  "trustedDependencies": [
+    "protobufjs"
+  ]
 }
