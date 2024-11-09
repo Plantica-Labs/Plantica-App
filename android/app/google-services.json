@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "554074853493",
+    "project_id": "plantica-hub",
+    "storage_bucket": "plantica-hub.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554074853493:android:cb3e232060edf31de9283c",
+        "android_client_info": {
+          "package_name": "com.plantica"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmzMiGSvqaEzTxYJUzgk6qZIQdV8uU1Sc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
