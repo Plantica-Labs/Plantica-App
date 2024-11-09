@@ -1,6 +1,17 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# Plantica — smart watering for your plants
+> Don't let any more of your plants die.
 
-# Getting Started
+<img alt="plantica app preview" src="https://github.com/user-attachments/assets/eb469965-cde3-44c5-abf7-bf76d3b701dd" height="500px" width="auto"/>
+
+This is the mobile app for plantica which is responsible for sending notifications with custom sounds.
+
+## Other repositories
+- Backend can be found on [Plantica-Labs/Plantica-Backend](https://github.com/Plantica-Labs/Plantica-Backend)
+- Hardware code for ESP can be found on [Plantica-Labs/Plantica-ESP](https://github.com/Plantica-Labs/Plantica-ESP)
+
+## How to run this project locally?
+
+This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
@@ -64,11 +75,11 @@ You've successfully run and modified your React Native App. :partying_face:
 - If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
 - If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
 
-# Troubleshooting
+## Troubleshooting
 
 If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
 
-# Learn More
+## Learn More
 
 To learn more about React Native, take a look at the following resources:
 
